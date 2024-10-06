@@ -12,7 +12,7 @@ end
 --Key
 wait(0.5)
 local Notification = require(game:GetService("ReplicatedStorage").Notification)
-Notification.new("<Color=Orange>Matsune Hello You<Color=/>"):Display()
+Notification.new("<Color=Orange>Welcome To Leite Hub<Color=/>"):Display()
 wait(0.5)
 repeat
     wait()
