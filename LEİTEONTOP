@@ -64,7 +64,7 @@ end)
 HomePage:Label("Join Our Discord for News")
 HomePage:Button("Copy Discord Link", function()
     MatsuneNotify("Copy Discord Link!",5)
-    setclipboard("https://discord.com/invite/1337")
+    setclipboard("https://discord.gg/sEU6Z9b8")
 end)
 
 --// Flag Player
