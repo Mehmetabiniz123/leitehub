@@ -6,7 +6,7 @@ local MatsuneNotify = function(Text_i,Duration_i)
         Title = "Leite Hub",
         Text = Text,
         Duration = Duration_i,
-        Icon = "rbxassetid://18241810393"
+        Icon = "rbxassetid://71232704039816"
     })
 end
 --Key
