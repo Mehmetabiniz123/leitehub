@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Msunehub/None/main/NotificationV1.lua"))()
+
 
 repeat wait(1) until game:IsLoaded()
 local MatsuneNotify = function(Text_i,Duration_i)
